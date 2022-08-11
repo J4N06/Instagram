@@ -5,6 +5,75 @@
 
 .hotbar {
     margin: 30px;
+    background-color: rgb(0, 0, 0);
 }
 
-.hotbar:hover {}
+.likes {
+    color: white;
+    position: relative;
+    right: 115px;
+}
+
+.beschrieb {
+    color: white;
+    position: relative;
+    right: 40px;
+}
+
+.kommentar {
+    color: white;
+    position: relative;
+    right: 115px;
+}
+
+.logo {
+    position: relative;
+    right: 120px;
+    color: white;
+    width: 165px;
+}
+
+.personen {
+    border-color: rgb(255, 120, 35);
+    border-radius: 2px;
+    border-style: solid;
+}
+
+.sharetop {
+    position: relative;
+    left: 115px;
+}
+
+.hearttop {
+    position: relative;
+    left: 110px;
+}
+
+.plusbutton {
+    position: relative;
+    left: 102px;
+}
+
+.heartbottom {
+    position: relative;
+    right: 170px;
+}
+
+.comment {
+    position: relative;
+    right: 160px;
+}
+
+.sharebotttom {
+    position: relative;
+    right: 150px;
+}
+
+.speichern {
+    position: relative;
+    left: 173px;
+}
+
+.kommentier-picture {
+    width: 24px;
+}
