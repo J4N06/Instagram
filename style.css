@@ -3,10 +3,17 @@
     width: 640px;
 }
 
-.storyplus {
+.ownstory {
+    width: 80px;
     position: relative;
+    right: ;
+    top: 80px;
+}
+
+.storyplus {
+    position: absolute;
     right: 10px;
-    top: 10px;
+    top: 60px;
     background-color: rgb(0, 149, 246);
     border-radius: 50%;
 
@@ -14,26 +21,25 @@
 
 .avatar {
     width: 80px;
-    position: relative;
-    right: 7px;
+
+
+    right: 220px;
+    top: 80px;
     border-radius: 50%;
     margin-left: 15px;
 
 }
 
-bild {
-    width: 45px;
-
-}
 
 .personen {
     position: relative;
-    border: 2px solid rgb(255, 133, 13);
+    border: 3px solid rgb(255, 95, 22);
+
 
     border-radius: 50%;
     width: 80px;
 
-    right: 7px;
+    left: 40px;
     margin-left: 15px;
 
 }
@@ -124,6 +130,7 @@ bild {
     width: 50px;
     position: relative;
     right: 116px;
+    border: 2px solid rgb(255, 95, 22);
 }
 
 .bildbeschrieb {
