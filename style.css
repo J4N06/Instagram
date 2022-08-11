@@ -1,3 +1,8 @@
+.phone {
+    background-color: rgb(0, 0, 0);
+    width: 640px;
+}
+
 .storyplus {
     position: relative;
     right: 10px;
@@ -9,8 +14,8 @@
 
 .avatar {
     width: 80px;
-
-    right: 90px;
+    position: relative;
+    right: 7px;
     border-radius: 50%;
     margin-left: 15px;
 
@@ -22,13 +27,13 @@ bild {
 }
 
 .personen {
+    position: relative;
+    border: 2px solid rgb(255, 133, 13);
 
-    border-width: 5px;
-    border-color: rgb(255, 133, 13);
     border-radius: 50%;
     width: 80px;
 
-    right: 9px;
+    right: 7px;
     margin-left: 15px;
 
 }
