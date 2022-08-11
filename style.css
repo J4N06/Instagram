@@ -4,7 +4,7 @@
 }
 
 .hotbar {
-    margin: 30px;
+    margin: 33px;
     background-color: rgb(0, 0, 0);
 }
 
@@ -20,11 +20,7 @@
     right: 40px;
 }
 
-.kommentar {
-    color: white;
-    position: relative;
-    right: 115px;
-}
+
 
 .logo {
     position: relative;
@@ -56,17 +52,17 @@
 
 .heartbottom {
     position: relative;
-    right: 170px;
+    right: 179px;
 }
 
 .comment {
     position: relative;
-    right: 160px;
+    right: 169px;
 }
 
 .sharebotttom {
     position: relative;
-    right: 150px;
+    right: 159px;
 }
 
 .speichern {
@@ -74,6 +70,55 @@
     left: 173px;
 }
 
+.kommentar {
+    color: white;
+    position: relative;
+    right: 105px;
+}
+
 .kommentier-picture {
-    width: 24px;
+    width: 30px;
+    position: relative;
+    right: 110px;
+}
+
+.profile-name {
+    color: white;
+    position: relative;
+    right: 113px;
+}
+
+.profile-picture {
+    width: 50px;
+    position: relative;
+    right: 116px;
+}
+
+.bildbeschrieb {
+    font-size: x-small;
+    color: white;
+    position: relative;
+    right: 171px;
+    top: 15px;
+}
+
+.dots {
+    position: relative;
+    left: 120px;
+}
+
+.emotes {
+    position: relative;
+    left: 110px;
+}
+
+.foto {
+    margin: 15px;
+    position: relative;
+    left: 378px;
+}
+
+.textholder {
+    color: rgb(0, 0, 0);
+
 }
