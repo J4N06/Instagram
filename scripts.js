@@ -1,3 +1,1 @@
-if (condition) {
-
-}
+function like()
